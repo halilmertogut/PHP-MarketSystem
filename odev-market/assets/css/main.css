@@ -1,0 +1,67 @@
+.input-span {
+    width: 100px !important;
+}
+
+.profile-menu {
+    list-style: none;
+}
+
+.profile-menu li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    background-color: #ccc;
+    margin-bottom:5px;
+}
+
+.profile-menu li a {
+    color: #000;
+    text-decoration: none;
+}
+
+.profile-menu li a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+.product-image{
+    height: 250px;
+    object-fit: contain;
+}
+
+.normal-price {
+    font-size: 21px;
+    margin-right: 15px;
+}
+
+.discounted-price {
+    font-size: 21px;
+    color: red;
+    text-decoration:line-through;
+}
+
+.normal-price-product-detail {
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+.discounted-price-product-detail  {
+    font-size: 21px;
+    color: red;
+    text-decoration:line-through;
+}
+
+.expiration-date {
+    font-weight: bold;
+}
+
+.complete-shopping {
+    width:100%; 
+    text-align:end;
+}
+
+.order-table-div {
+    border-bottom : 1px solid #ccc;
+    margin-bottom:15px;
+    line-height: 5px;
+}
